@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "masterpwa"
+    }
+  },
+  "defaultProject": "masterpwa",
+  "cli": {
+    "analytics": "d33d6476-3800-4389-a710-0d93eaa9b8ac"
+  }
 }
